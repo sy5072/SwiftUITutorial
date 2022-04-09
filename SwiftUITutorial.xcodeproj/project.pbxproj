@@ -14,6 +14,8 @@
 		792454D327FFDBC1001B4308 /* SwiftUITutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792454D227FFDBC1001B4308 /* SwiftUITutorialTests.swift */; };
 		792454DD27FFDBC1001B4308 /* SwiftUITutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792454DC27FFDBC1001B4308 /* SwiftUITutorialUITests.swift */; };
 		792454DF27FFDBC1001B4308 /* SwiftUITutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792454DE27FFDBC1001B4308 /* SwiftUITutorialUITestsLaunchTests.swift */; };
+		792454EC27FFE019001B4308 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792454EB27FFE019001B4308 /* ImageView.swift */; };
+		79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79913CDB2801E60C00AD89B4 /* StackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		792454D827FFDBC1001B4308 /* SwiftUITutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUITutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		792454DC27FFDBC1001B4308 /* SwiftUITutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialUITests.swift; sourceTree = "<group>"; };
 		792454DE27FFDBC1001B4308 /* SwiftUITutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		792454EB27FFE019001B4308 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		79913CDB2801E60C00AD89B4 /* StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				792454C127FFDBC0001B4308 /* SwiftUITutorialApp.swift */,
 				792454C327FFDBC0001B4308 /* ContentView.swift */,
+				792454EB27FFE019001B4308 /* ImageView.swift */,
+				79913CDB2801E60C00AD89B4 /* StackView.swift */,
 				792454C527FFDBC0001B4308 /* Assets.xcassets */,
 				792454C727FFDBC0001B4308 /* Preview Content */,
 			);
@@ -257,8 +263,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				792454EC27FFE019001B4308 /* ImageView.swift in Sources */,
 				792454C427FFDBC0001B4308 /* ContentView.swift in Sources */,
 				792454C227FFDBC0001B4308 /* SwiftUITutorialApp.swift in Sources */,
+				79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

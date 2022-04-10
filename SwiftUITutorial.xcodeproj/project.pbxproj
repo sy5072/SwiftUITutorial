@@ -31,6 +31,8 @@
 		797214AC28034506001DFEFE /* AnimalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214AB28034506001DFEFE /* AnimalData.swift */; };
 		797214AE280345A0001DFEFE /* AnimalListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214AD280345A0001DFEFE /* AnimalListView.swift */; };
 		797214B0280346D4001DFEFE /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214AF280346D4001DFEFE /* AnimalDetailView.swift */; };
+		797214B22803499A001DFEFE /* AnimalTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214B12803499A001DFEFE /* AnimalTabView.swift */; };
+		797214B428034A07001DFEFE /* AnimalLikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214B328034A07001DFEFE /* AnimalLikeView.swift */; };
 		79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79913CDB2801E60C00AD89B4 /* StackView.swift */; };
 /* End PBXBuildFile section */
 
@@ -79,6 +81,8 @@
 		797214AB28034506001DFEFE /* AnimalData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalData.swift; sourceTree = "<group>"; };
 		797214AD280345A0001DFEFE /* AnimalListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListView.swift; sourceTree = "<group>"; };
 		797214AF280346D4001DFEFE /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
+		797214B12803499A001DFEFE /* AnimalTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalTabView.swift; sourceTree = "<group>"; };
+		797214B328034A07001DFEFE /* AnimalLikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalLikeView.swift; sourceTree = "<group>"; };
 		79913CDB2801E60C00AD89B4 /* StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -148,6 +152,8 @@
 				797214A528032335001DFEFE /* DynamicListView.swift */,
 				797214A728033335001DFEFE /* StoryView.swift */,
 				797214A9280339AA001DFEFE /* AnimalMainView.swift */,
+				797214B12803499A001DFEFE /* AnimalTabView.swift */,
+				797214B328034A07001DFEFE /* AnimalLikeView.swift */,
 				797214AF280346D4001DFEFE /* AnimalDetailView.swift */,
 				797214AD280345A0001DFEFE /* AnimalListView.swift */,
 				797214AB28034506001DFEFE /* AnimalData.swift */,
@@ -318,6 +324,8 @@
 				7972149A28030B87001DFEFE /* PickerView.swift in Sources */,
 				7972149628030141001DFEFE /* StateBindingView.swift in Sources */,
 				797214AA280339AA001DFEFE /* AnimalMainView.swift in Sources */,
+				797214B428034A07001DFEFE /* AnimalLikeView.swift in Sources */,
+				797214B22803499A001DFEFE /* AnimalTabView.swift in Sources */,
 				792454C427FFDBC0001B4308 /* ContentView.swift in Sources */,
 				797214A828033335001DFEFE /* StoryView.swift in Sources */,
 				797214B0280346D4001DFEFE /* AnimalDetailView.swift in Sources */,

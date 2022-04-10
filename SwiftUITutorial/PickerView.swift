@@ -42,7 +42,7 @@ struct PickerView: View {
                     .font(.system(size: 30, weight: .bold, design: .rounded))
                 
                 Image(systemName: "chevron.down")
-                    .font(.system(size: 20,g weight: .medium, design: .rounded))
+                    .font(.system(size: 20, weight: .medium, design: .rounded))
             }
             .foregroundColor(.black)
             .padding(.horizontal)

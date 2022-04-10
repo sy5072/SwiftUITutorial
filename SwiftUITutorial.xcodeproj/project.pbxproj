@@ -26,6 +26,7 @@
 		797214A228031F68001DFEFE /* ForEachView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A128031F68001DFEFE /* ForEachView.swift */; };
 		797214A428032197001DFEFE /* StaticListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A328032197001DFEFE /* StaticListView.swift */; };
 		797214A628032335001DFEFE /* DynamicListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A528032335001DFEFE /* DynamicListView.swift */; };
+		797214A828033335001DFEFE /* StoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A728033335001DFEFE /* StoryView.swift */; };
 		79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79913CDB2801E60C00AD89B4 /* StackView.swift */; };
 /* End PBXBuildFile section */
 
@@ -69,6 +70,7 @@
 		797214A128031F68001DFEFE /* ForEachView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachView.swift; sourceTree = "<group>"; };
 		797214A328032197001DFEFE /* StaticListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticListView.swift; sourceTree = "<group>"; };
 		797214A528032335001DFEFE /* DynamicListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicListView.swift; sourceTree = "<group>"; };
+		797214A728033335001DFEFE /* StoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryView.swift; sourceTree = "<group>"; };
 		79913CDB2801E60C00AD89B4 /* StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -136,6 +138,7 @@
 				797214A128031F68001DFEFE /* ForEachView.swift */,
 				797214A328032197001DFEFE /* StaticListView.swift */,
 				797214A528032335001DFEFE /* DynamicListView.swift */,
+				797214A728033335001DFEFE /* StoryView.swift */,
 				792454C727FFDBC0001B4308 /* Preview Content */,
 			);
 			path = SwiftUITutorial;
@@ -302,6 +305,7 @@
 				7972149A28030B87001DFEFE /* PickerView.swift in Sources */,
 				7972149628030141001DFEFE /* StateBindingView.swift in Sources */,
 				792454C427FFDBC0001B4308 /* ContentView.swift in Sources */,
+				797214A828033335001DFEFE /* StoryView.swift in Sources */,
 				794ABAAE2802C15200926AB2 /* ButtonView.swift in Sources */,
 				792454C227FFDBC0001B4308 /* SwiftUITutorialApp.swift in Sources */,
 				797214942802FD9A001DFEFE /* TextFieldView.swift in Sources */,

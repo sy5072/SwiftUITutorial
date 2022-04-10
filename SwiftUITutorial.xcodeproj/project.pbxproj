@@ -22,6 +22,7 @@
 		7972149A28030B87001DFEFE /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7972149928030B87001DFEFE /* PickerView.swift */; };
 		7972149C28031107001DFEFE /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7972149B28031107001DFEFE /* SpacerView.swift */; };
 		7972149E28031204001DFEFE /* DividerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7972149D28031204001DFEFE /* DividerView.swift */; };
+		797214A0280314E5001DFEFE /* Chapter1_Project.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7972149F280314E5001DFEFE /* Chapter1_Project.swift */; };
 		79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79913CDB2801E60C00AD89B4 /* StackView.swift */; };
 /* End PBXBuildFile section */
 
@@ -61,6 +62,7 @@
 		7972149928030B87001DFEFE /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
 		7972149B28031107001DFEFE /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
 		7972149D28031204001DFEFE /* DividerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerView.swift; sourceTree = "<group>"; };
+		7972149F280314E5001DFEFE /* Chapter1_Project.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1_Project.swift; sourceTree = "<group>"; };
 		79913CDB2801E60C00AD89B4 /* StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,6 +126,7 @@
 				7972149D28031204001DFEFE /* DividerView.swift */,
 				79913CDB2801E60C00AD89B4 /* StackView.swift */,
 				792454C527FFDBC0001B4308 /* Assets.xcassets */,
+				7972149F280314E5001DFEFE /* Chapter1_Project.swift */,
 				792454C727FFDBC0001B4308 /* Preview Content */,
 			);
 			path = SwiftUITutorial;
@@ -295,6 +298,7 @@
 				797214942802FD9A001DFEFE /* TextFieldView.swift in Sources */,
 				7972149C28031107001DFEFE /* SpacerView.swift in Sources */,
 				79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */,
+				797214A0280314E5001DFEFE /* Chapter1_Project.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

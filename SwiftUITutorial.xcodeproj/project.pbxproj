@@ -27,6 +27,10 @@
 		797214A428032197001DFEFE /* StaticListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A328032197001DFEFE /* StaticListView.swift */; };
 		797214A628032335001DFEFE /* DynamicListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A528032335001DFEFE /* DynamicListView.swift */; };
 		797214A828033335001DFEFE /* StoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A728033335001DFEFE /* StoryView.swift */; };
+		797214AA280339AA001DFEFE /* AnimalMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214A9280339AA001DFEFE /* AnimalMainView.swift */; };
+		797214AC28034506001DFEFE /* AnimalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214AB28034506001DFEFE /* AnimalData.swift */; };
+		797214AE280345A0001DFEFE /* AnimalListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214AD280345A0001DFEFE /* AnimalListView.swift */; };
+		797214B0280346D4001DFEFE /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214AF280346D4001DFEFE /* AnimalDetailView.swift */; };
 		79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79913CDB2801E60C00AD89B4 /* StackView.swift */; };
 /* End PBXBuildFile section */
 
@@ -71,6 +75,10 @@
 		797214A328032197001DFEFE /* StaticListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticListView.swift; sourceTree = "<group>"; };
 		797214A528032335001DFEFE /* DynamicListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicListView.swift; sourceTree = "<group>"; };
 		797214A728033335001DFEFE /* StoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryView.swift; sourceTree = "<group>"; };
+		797214A9280339AA001DFEFE /* AnimalMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalMainView.swift; sourceTree = "<group>"; };
+		797214AB28034506001DFEFE /* AnimalData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalData.swift; sourceTree = "<group>"; };
+		797214AD280345A0001DFEFE /* AnimalListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListView.swift; sourceTree = "<group>"; };
+		797214AF280346D4001DFEFE /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
 		79913CDB2801E60C00AD89B4 /* StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -139,6 +147,10 @@
 				797214A328032197001DFEFE /* StaticListView.swift */,
 				797214A528032335001DFEFE /* DynamicListView.swift */,
 				797214A728033335001DFEFE /* StoryView.swift */,
+				797214A9280339AA001DFEFE /* AnimalMainView.swift */,
+				797214AF280346D4001DFEFE /* AnimalDetailView.swift */,
+				797214AD280345A0001DFEFE /* AnimalListView.swift */,
+				797214AB28034506001DFEFE /* AnimalData.swift */,
 				792454C727FFDBC0001B4308 /* Preview Content */,
 			);
 			path = SwiftUITutorial;
@@ -300,12 +312,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				7972149E28031204001DFEFE /* DividerView.swift in Sources */,
+				797214AC28034506001DFEFE /* AnimalData.swift in Sources */,
 				797214982803079C001DFEFE /* ToggleView.swift in Sources */,
 				792454EC27FFE019001B4308 /* ImageView.swift in Sources */,
 				7972149A28030B87001DFEFE /* PickerView.swift in Sources */,
 				7972149628030141001DFEFE /* StateBindingView.swift in Sources */,
+				797214AA280339AA001DFEFE /* AnimalMainView.swift in Sources */,
 				792454C427FFDBC0001B4308 /* ContentView.swift in Sources */,
 				797214A828033335001DFEFE /* StoryView.swift in Sources */,
+				797214B0280346D4001DFEFE /* AnimalDetailView.swift in Sources */,
 				794ABAAE2802C15200926AB2 /* ButtonView.swift in Sources */,
 				792454C227FFDBC0001B4308 /* SwiftUITutorialApp.swift in Sources */,
 				797214942802FD9A001DFEFE /* TextFieldView.swift in Sources */,
@@ -315,6 +330,7 @@
 				797214A0280314E5001DFEFE /* Chapter1_Project.swift in Sources */,
 				797214A228031F68001DFEFE /* ForEachView.swift in Sources */,
 				797214A628032335001DFEFE /* DynamicListView.swift in Sources */,
+				797214AE280345A0001DFEFE /* AnimalListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

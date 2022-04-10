@@ -17,6 +17,7 @@
 		792454EC27FFE019001B4308 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792454EB27FFE019001B4308 /* ImageView.swift */; };
 		794ABAAE2802C15200926AB2 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 794ABAAD2802C15200926AB2 /* ButtonView.swift */; };
 		797214942802FD9A001DFEFE /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 797214932802FD9A001DFEFE /* TextFieldView.swift */; };
+		7972149628030141001DFEFE /* StateBindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7972149528030141001DFEFE /* StateBindingView.swift */; };
 		79913CDC2801E60C00AD89B4 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79913CDB2801E60C00AD89B4 /* StackView.swift */; };
 /* End PBXBuildFile section */
 
@@ -51,6 +52,7 @@
 		792454EB27FFE019001B4308 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		794ABAAD2802C15200926AB2 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		797214932802FD9A001DFEFE /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
+		7972149528030141001DFEFE /* StateBindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBindingView.swift; sourceTree = "<group>"; };
 		79913CDB2801E60C00AD89B4 /* StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -107,6 +109,7 @@
 				792454EB27FFE019001B4308 /* ImageView.swift */,
 				794ABAAD2802C15200926AB2 /* ButtonView.swift */,
 				797214932802FD9A001DFEFE /* TextFieldView.swift */,
+				7972149528030141001DFEFE /* StateBindingView.swift */,
 				79913CDB2801E60C00AD89B4 /* StackView.swift */,
 				792454C527FFDBC0001B4308 /* Assets.xcassets */,
 				792454C727FFDBC0001B4308 /* Preview Content */,
@@ -270,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				792454EC27FFE019001B4308 /* ImageView.swift in Sources */,
+				7972149628030141001DFEFE /* StateBindingView.swift in Sources */,
 				792454C427FFDBC0001B4308 /* ContentView.swift in Sources */,
 				794ABAAE2802C15200926AB2 /* ButtonView.swift in Sources */,
 				792454C227FFDBC0001B4308 /* SwiftUITutorialApp.swift in Sources */,
